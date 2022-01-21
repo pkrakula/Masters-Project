@@ -1,1 +1,1 @@
-from .rcc import RccCluster
+from .dbscan import DBSCAN
